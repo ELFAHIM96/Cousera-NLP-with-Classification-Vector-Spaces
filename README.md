@@ -18,6 +18,7 @@
       - [Applications of Naïve Bayes](https://github.com/ELFAHIM96/Cousera-NLP-with-Classification-Vector-Spaces/blob/main/NLP-with-Classification-Vector-Spaces/C1_week2/resume_cours/Applications%20of%20Na%C3%AFve%20Bayes%20_%20Coursera.pdf)
       - [Error Analysis](https://github.com/ELFAHIM96/Cousera-NLP-with-Classification-Vector-Spaces/blob/main/NLP-with-Classification-Vector-Spaces/C1_week2/resume_cours/Error%20Analysis%20_%20Coursera.pdf)
       - [probability and Bayes Rule](https://github.com/ELFAHIM96/Cousera-NLP-with-Classification-Vector-Spaces/blob/main/NLP-with-Classification-Vector-Spaces/C1_week2/resume_cours/probability%20and%20Bayes%20Rule.png)
+### Python Code
   - [1.2 lecture Code](https://github.com/ELFAHIM96/Cousera-NLP-with-Classification-Vector-Spaces/tree/main/NLP-with-Classification-Vector-Spaces/C1_week2/C1_W2_lecture_naive_bayes)
   - [1.3 Assignment Code](https://github.com/ELFAHIM96/Cousera-NLP-with-Classification-Vector-Spaces/tree/main/NLP-with-Classification-Vector-Spaces/C1_week2/C1_W2_Assignment)
 ### Week3 (Vector space Models  NLP)
@@ -27,6 +28,7 @@
       - [Cosine Similarity](https://github.com/ELFAHIM96/Cousera-NLP-with-Classification-Vector-Spaces/blob/main/NLP-with-Classification-Vector-Spaces/C1_week1/Resume%20cours1/Logistic%20Regression_Training.png)
       - [PCA algorithm](https://github.com/ELFAHIM96/Cousera-NLP-with-Classification-Vector-Spaces/blob/main/NLP-with-Classification-Vector-Spaces/C1_week3/resum_cours/PCA%20algorithm%20_%20Coursera.pdf)
       - [Vector Space Models](https://github.com/ELFAHIM96/Cousera-NLP-with-Classification-Vector-Spaces/blob/main/NLP-with-Classification-Vector-Spaces/C1_week3/resum_cours/Vector%20Space%20Models%20_%20Coursera.pdf)
+### Python Code
   - [1.2 lecture Code](https://github.com/ELFAHIM96/Cousera-NLP-with-Classification-Vector-Spaces/tree/main/NLP-with-Classification-Vector-Spaces/C1_week3/C1_W3_lecture_Code)
   - [1.3 Assignment Code](https://github.com/ELFAHIM96/Cousera-NLP-with-Classification-Vector-Spaces/tree/main/NLP-with-Classification-Vector-Spaces/C1_week3/C1_W3_Assignment)
  
@@ -38,6 +40,7 @@
       - [Transforming word vectors](https://github.com/ELFAHIM96/Cousera-NLP-with-Classification-Vector-Spaces/blob/main/NLP-with-Classification-Vector-Spaces/C1_week4/resume_cours%20W4/Transforming%20word%20vectors%20_%20Coursera.pdf)
       - [Searching documents](https://github.com/ELFAHIM96/Cousera-NLP-with-Classification-Vector-Spaces/blob/main/NLP-with-Classification-Vector-Spaces/C1_week4/resume_cours%20W4/Searching%20documents%20_%20Coursera.pdf)
       - [Multiple Planes](https://github.com/ELFAHIM96/Cousera-NLP-with-Classification-Vector-Spaces/blob/main/NLP-with-Classification-Vector-Spaces/C1_week4/resume_cours%20W4/Multiple%20Planes%20_%20Coursera.pdf)
+### Python Code
   - [1.2 lecture Code](https://github.com/ELFAHIM96/Cousera-NLP-with-Classification-Vector-Spaces/tree/main/NLP-with-Classification-Vector-Spaces/C1_week4/Week_4%20Lecture_Code)
   - [1.3 Assignment Code](https://github.com/ELFAHIM96/Cousera-NLP-with-Classification-Vector-Spaces/tree/main/NLP-with-Classification-Vector-Spaces/C1_week4/week_4_assignment%20_Code)
 ![image](https://user-images.githubusercontent.com/65721811/182025551-595433c7-25b7-4b8d-9a87-08eca146a94d.png)
