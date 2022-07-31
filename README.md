@@ -1,8 +1,8 @@
 # NLP-with-Classification-Vector-Spaces
 ## All Cours
-a) Perform sentiment analysis of tweets using logistic regression and then naïve Bayes, 
-b) Use vector space models to discover relationships between words and use PCA to reduce the dimensionality of the vector space and visualize those relationships, and
-c) Write a simple English to French translation algorithm using pre-computed word embeddings and locality-sensitive hashing to relate words via approximate k-nearest neighbor search.  
+#### 1-Perform sentiment analysis of tweets using logistic regression and then naïve Bayes, 
+#### 2-Use vector space models to discover relationships between words and use PCA to reduce the dimensionality of the vector space and visualize those relationships
+#### 3-Write a simple English to French translation algorithm using pre-computed word embeddings and locality-sensitive hashing to relate words via approximate k-nearest neighbor search.  
 ### Week 1 (Logistic Regression NLP)
 - [1.Week 1](https://github.com/ELFAHIM96/Cousera-NLP-with-Classification-Vector-Spaces/tree/main/NLP-with-Classification-Vector-Spaces/C1_week1)
   - [1.1 Resume Courses](https://github.com/ELFAHIM96/Cousera-NLP-with-Classification-Vector-Spaces/tree/main/NLP-with-Classification-Vector-Spaces/C1_week1/Resume%20cours1)
